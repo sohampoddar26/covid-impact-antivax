@@ -6,3 +6,4 @@ The preprint version of the paper is available on: [Arxiv link](https://arxiv.or
 
 Get the CAVES dataset here: [Github link](https://github.com/sohampoddar26/caves-data)
 
+If you would like to collaborate with us / access the large-scale (2018-2023) vaccine-related tweet set, feel free to reach out to me at sohampoddar@kgpian.iitkgp.ac.in
